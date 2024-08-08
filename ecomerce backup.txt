@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="ecommercersem3.css">
+</head>
+<body>
+    <div class="main">
+      <div class="hell">T SHOP</div>
+      <div class="null">New</div>
+      <div class="null">Women</div>
+      <div class="null">Men</div>
+      <div class="null">Log ink</div>
+      </div>
+
+    <center> <strong> <h1>T SHOP</h1></strong>
+    <p class="head">There's One for Everyone</p>
+    </center>
+    <div class="next">
+      <img src="WhatsApp Image 2024-07-18 at 19.55.44_2c30cf36.jpg" width="449px">
+      <img src="WhatsApp Image 2024-07-18 at 19.55.42_4032b9eb.jpg"  width="510px" style="margin-left: 8px; margin-right:8px">
+      <img src="WhatsApp Image 2024-07-18 at 19.55.37_6433facd.jpg"  width="35%">
+    </div>
+
+  <center><strong>  <h1 style="font-size: 35px;" style="font-family:Arial, Helvetica, sans-serif;">NEW DROPS</h1></strong></center>
+
+  <div class="newdrops">
+<img src="1st tshirt.jpg" height="390" width="300px" style="margin-left: 50px;">
+<img src="2nd tshirt.webp" height="390" width="300px" style="margin-left: 50px ">
+<img src="3rd tshirt.webp"height="390" width="300px" style="margin-left: 50px ; margin-right: 50px;">
+<img src="4th tshirt.webp" height="390" width="300px" style="margin-right: 10px;" >
+  </div>
+  <div class="text" >
+    <p style="margin-left: 50px; font-size: 18px;">I'm a product </p>
+    <p style="margin-left: 260px; font-size: 18px;">I'm a product </p>
+    
+    
+<p style="margin-left: 260px; font-size: 18px;">I'm a product </p>
+
+<p style="margin-left: 260px; font-size: 18px;">I'm a product </p>
+</div>
+
+<div class="test">
+  <p style="margin-left: 46px; margin-top: 0px;">$15.00</p>
+  <p style="margin-left: 315px; margin-top: 0px;">$15.00</p>
+  <p style="margin-left: 315px; margin-top: 0px;">$15.00</p>
+  <p style="margin-left: 310px; margin-top: 0px;">$15.00</p>
+</div><br>
+<div>
+  <img src="5th tshirt.webp" height="390" width="300px" style="margin-left: 50px;">
+  <img src="6th tshirt.webp" height="390" width="300px" style="margin-left: 50px ">
+  <img src="7th tshirt.webp"height="390" width="300px" style="margin-left: 50px ; margin-right: 50px;">
+  <img src="8th tshirt.webp" height="390" width="300px" style="margin-right: 10px;" >
+</div>
+<div class="text" >
+  <p style="margin-left: 50px; font-size: 18px;">I'm a product </p>
+  <p style="margin-left: 260px; font-size: 18px;">I'm a product </p>
+  
+  
+<p style="margin-left: 260px; font-size: 18px;">I'm a product </p>
+
+<p style="margin-left: 260px; font-size: 18px;">I'm a product </p>
+</div><div class="test">
+  <p style="margin-left: 46px; margin-top: 0px;">$15.00</p>
+  <p style="margin-left: 315px; margin-top: 0px;">$15.00</p>
+  <p style="margin-left: 315px; margin-top: 0px;">$15.00</p>
+  <p style="margin-left: 310px; margin-top: 0px;">$15.00</p>
+</div><br>
+<center><p style="font-size: 35px;">Shop New</p></center>
+
+<div>
+  <p style="font-size: 40px;margin-left: 25%;">SALE IS ON!</p>
+  <p style="font-size: 125px;margin-left: 20%;">25% OFF</p>
+</div>
+<div>
+  <img src="9th img.webp" height="700px" width="45%" style="margin-left:60%;margin: top 0px;">
+</div>
+</body>
+</html>

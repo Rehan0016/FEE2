@@ -1,0 +1,5 @@
+/*decendent and combinator selector:*/
+ul li a{
+    color:red;
+    font-size: 20px;
+}

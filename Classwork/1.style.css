@@ -1,5 +1,30 @@
-h3,p{
-    background-color: pink;
-    border: 2px solid grey;
-    padding:20px;
+/*1. universal selector*/
+
+
+*{
+    font-family:'Courier New'
+    Courier, monospace;
+}
+
+/*2. Id selector:*/
+#superheros{
+background-color: pink;
+text-align: center;
+}
+/*3.class selector:*/
+.super{
+    color: rgba(240, 91, 61, 0.963);
+    font-weight: 800;
+}
+/*4. element selector*/
+h1{
+    color:rgb(24, 8, 250);
+    text-decoration: line-through;
+}
+/*5.attribute selector*/
+input[type="text"]{
+    background-color: rgb(3, 255, 255);
+}
+input[type="password"]{
+    background-color: rgb(251, 34, 5);
 }

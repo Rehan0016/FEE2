@@ -1,0 +1,32 @@
+/*.a1{
+    text-align:center;
+}
+
+p{
+    text-align:inherit;
+    text-align:justify;
+    text-align:Start;
+    text-align:end;
+    text-align:left;
+    text-align:right;
+    text-align:center;
+    
+}
+a{
+    font-size:30px;
+    text-decoraton:line-through;
+    text-decoration-color:aqua;
+    text-decoration-style:wavy;
+}*/
+
+.full{
+    background-color: rgb(252, 61, 3);
+   height:300px;
+   width:20%;
+
+}
+
+.item{
+width: 30%;
+
+}
