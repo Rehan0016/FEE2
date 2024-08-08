@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+    <style>
+        .name{
+               padding: 7px;
+               width: 45%;
+               height:15%;
+        }
+        body{
+            background-image: url(background1.jpg);
+        }
+        .num{
+            padding: 7px;
+            width: 10%;
+        }
+        .num2{
+            padding: 7px;
+            width: 10%;
+        }
+        .mar{
+            color:red;
+        }
+
+    </style>
+</head>
+<body>
+
+    
+   <center> <h1>
+        COLLAGE APPLICATION FORM
+    </h1></center>
+   <marquee class="mar"> <h3 >Hurry up join imidately to get exiting offers</h3></marquee>
+<h2>Student Details </h2>
+<form action="messi html revision sem3.html">
+   
+    <input type="text" placeholder="First name" class="name">
+    <input type="text" placeholder="last name" class="name"><br><br>
+    <select class="num">
+     <option value="+91" >+91</option>
+     <option value="+86" >+86</option>
+     <option value="+21" >+21</option>
+    </select>
+    <input type="tel" placeholder="phone number" class="name"><br><br>
+    <label>Gender</label> &nbsp;&nbsp;&nbsp;&nbsp;
+    <input type="radio">
+    <label>Male</label>
+    <input type="radio">
+    <label>Female</label>
+    <hr>
+    <h2>Contact Details Guardian</h2>
+    <textarea placeholder="Permanent Adress"></textarea>&nbsp;&nbsp;
+    <textarea placeholder="temoprary Adress"></textarea><br><br>
+    <select class="num2" >
+        <option value="+91">+91</option>
+        <option value="+52">+52</option>
+        <option value="+9" >+99</option>
+    </select>
+    <input type="number" placeholder="Phone number" class="num"><hr><br>
+    
+    
+    <label for>Nationality</label>&nbsp;&nbsp;
+    <select>
+        <option value="indian">Indian</option>
+        <option value="pakistan">Pakistan</option>
+        <option value="afganistan">Afganistan</option>
+        <option value="europe">Europe</option>
+    </select>
+    <hr>
+    <h2>Skills</h2>
+    <h3>Select Skills</h3>
+    <input type="checkbox">
+    <label for>Skill 1</label><br>
+    
+    <input type="checkbox">
+    <label for>Skill 2</label><br>
+    
+    <input type="checkbox">
+    <label for>Skill 3</label><br>
+    
+    <h2>Resume</h2>
+    <p>(File size should be not more than 2 MB)</p>
+<label for>Upload your resume </label>
+<input type="file"><br><br>
+<input type="submit">
+
+</form>
+
+<form>
+    
+</form>
+</body>
+</html>
